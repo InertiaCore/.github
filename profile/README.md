@@ -1,8 +1,8 @@
 # InertiaCore
 
-Welcome to the **InertiaCore** GitHub organization — the home of an interation for using Inertia.js with ASP.NET Core.
+Welcome to the **InertiaCore** GitHub organization — the home for using [Inertia.js](https://inertiajs.com/file-uploads) with [ASP.NET Core](https://dotnet.microsoft.com/en-us/apps/aspnet).
 
-InertiaCore allows developers to build modern, single-page applications using classic server-side routing and controllers in ASP.NET Core. It brings together the simplicity of server-driven apps with the rich interactivity of modern JavaScript frameworks like Vue, React, and Svelte.
+[InertiaCore](https://github.com/kapi2289/InertiaCore) allows developers to build modern, single-page applications using classic server-side routing and controllers in ASP.NET Core. It brings together the simplicity of server-driven apps with the rich interactivity of modern JavaScript frameworks like Vue, React, and Svelte.
 
 [View Website](https://inertiacore.net)
 
