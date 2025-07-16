@@ -4,6 +4,8 @@ Welcome to the **InertiaCore** GitHub organization — the home of an interation
 
 InertiaCore allows developers to build modern, single-page applications using classic server-side routing and controllers in ASP.NET Core. It brings together the simplicity of server-driven apps with the rich interactivity of modern JavaScript frameworks like Vue, React, and Svelte.
 
+[View Website](https://inertiacore.net)
+
 ## Projects
 
 | Repository | Description |
