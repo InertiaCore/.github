@@ -12,6 +12,7 @@ Welcome to the **InertiaCore** GitHub organization — the home for using [Inert
 |------------|-------------|
 | [InertiaCore](https://github.com/kapi2289/InertiaCore) | The .NET adapter for Inertia.js  |
 | [InertiaCore/kits](https://github.com/inertiacore/kits) | Starter kits for InertiaCore. |
+| [InertiaCore/vite-plugin](https://github.com/inertiacore/vite-plugin) | Vite Plugin for InertiaCore. |
 | [InertiaCore/inertiacore.net](https://github.com/inertiacore/inertiacore.net) | The website promoting the library and documentation. |
 | [InertiaCore/PingCRM](https://github.com/inertiacore/pingcrm) | A demo application to illustrate how InertiaCore works. |
 
