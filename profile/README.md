@@ -14,7 +14,9 @@ Welcome to the **InertiaCore** GitHub organization — the home for using [Inert
 | [InertiaCore/kits](https://github.com/inertiacore/kits) | Starter kits for InertiaCore. |
 | [InertiaCore/vite-plugin](https://github.com/inertiacore/vite-plugin) | Vite Plugin for InertiaCore. |
 | [InertiaCore/inertiacore.net](https://github.com/inertiacore/inertiacore.net) | The website promoting the library and documentation. |
-| [InertiaCore/PingCRM](https://github.com/inertiacore/pingcrm) | A demo application to illustrate how InertiaCore works. |
+| [InertiaCore/PingCRM](https://github.com/inertiacore/pingcrm) | A demo application to illustrate how InertiaCore works with Vue. |
+| [InertiaCore/PingCRM-React](https://github.com/inertiacore/pingcrm-react) | A demo application to illustrate how InertiaCore works with React. |
+| [InertiaCore/PingCRM-Svelte](https://github.com/inertiacore/pingcrm-svelte) | A demo application to illustrate how InertiaCore works with Svelte. |
 
 ## What is InertiaCore?
 
